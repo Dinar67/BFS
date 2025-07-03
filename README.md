@@ -1,0 +1,1 @@
+Simple WPF project can show how to use BFS to search the shortest way from enemy gate to player base.
